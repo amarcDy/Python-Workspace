@@ -6,7 +6,7 @@ print('Welcome to RPS')
 moves: dict = {'rock':'R', 'paper':'P', 'scissors':'S'}
 valid_moves: list = list(moves.keys())
 
-#Step 2 Scoring variables
+#Step 2 Scoring Variables
 ai_score: int = 0
 user_score: int = 0
 

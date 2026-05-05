@@ -1,7 +1,7 @@
 import sys
 from datetime import datetime
 
-#Gets the name of the user
+
 user_name:str= input('Hello there I\'m Chatbot! What is your name?')
 print(f'Nice to meet you {user_name}!')
 
