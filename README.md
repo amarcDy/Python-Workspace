@@ -6,7 +6,9 @@ This repository is a collection of my smaller projects, coding exercises, and da
 
 ### 📁 Project Highlights
 - **Rock-Paper-Scissors:** A functional Python game using loops and conditional logic.
+- **Simple Chat Bot:** An interactive ChatBot built with Python using fonctions, loops and prompts
 - **Python Fundamentals:** Practice files covering basic data structures and logic.
+  
 
 ### 🚀 Tech Stack
 - Python 3.x
