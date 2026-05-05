@@ -1,0 +1,1 @@
+ops: dict={ 'add': +, subs='-'}
